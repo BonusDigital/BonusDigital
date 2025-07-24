@@ -1,6 +1,9 @@
 <div align="center" width="50">
 
-## 👋 Hello Coders, I'm **OMAR SQUALLI HOUSSAINI**
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>   
+
+## 👋 Bonjour, je suis Omar Squalli Houssaini
 
 🎓 Étudiant à l'ISTA | 💻 Développeur Full Stack  
 🚀 Spécialisé en PHP (Laravel), React, Node.js, ASP.NET, SQL Server  
@@ -8,7 +11,7 @@
 📍 Basé au Maroc | Passionné par le code et les technologies web
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omar-squalli&style=flat&color=orange&label=VISITES+DU+PROFIL)
-[![telegram badge](https://web.telegram.org/a/) <br>
+[![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://web.telegram.org/a/) <br>
 
 </div>
 
@@ -56,4 +59,13 @@
 </details>
   
 <hr></hr>
+
+**⚙️ Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
 </div>
