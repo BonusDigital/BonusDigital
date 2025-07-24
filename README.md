@@ -45,33 +45,31 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BonusDigital&show_icons=true&theme=tokyonight&locale=fr" width="48%" alt="Statistiques de BonusDigital">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonusDigital&layout=compact&theme=tokyonight&locale=fr" width="48%" alt="Langages les plus utilisés">
-
-</div>
 
 ---
 
-## 🏆 Langages les plus utilisés par dépôts
+## 📊 Langages les plus utilisés par dépôts
 
-🔝 Basé sur mes dépôts GitHub :
+Voici les langages que j’utilise le plus dans mes dépôts publics GitHub :
 
-1. **PHP**
-2. **Laravel**
-3. **Java**
-4. **Angular**
-5. **Node.js**
+| Langage     | Pourcentage approximatif |
+|-------------|---------------------------|
+| **PHP**     | 35%                       |
+| **Laravel** | 25%                       |
+| **Java**    | 15%                       |
+| **Angular** | 15%                       |
+| **Node.js** | 10%                       |
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BonusDigital/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48%" alt="Top Langages par Dépôts">
-<img src="https://raw.githubusercontent.com/BonusDigital/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48%" alt="Top Langages par Commits">
+<!-- Top langages par dépôts -->
+<img src="https://raw.githubusercontent.com/BonusDigital/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="48%" alt="Langages par dépôts">
+
+<!-- Top langages par commits -->
+<img src="https://raw.githubusercontent.com/BonusDigital/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="48%" alt="Langages par commits">
 
 </div>
+
 
