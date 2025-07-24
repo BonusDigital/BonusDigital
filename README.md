@@ -8,8 +8,7 @@
 📍 Basé au Maroc | Passionné par le code et les technologies web
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omar-squalli&style=flat&color=orange&label=VISITES+DU+PROFIL)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomar-squalli&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://t.me/omar_dev) <br>
+[![telegram badge](https://web.telegram.org/a/) <br>
 
 </div>
 
