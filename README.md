@@ -42,15 +42,3 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Telegram : **[@omar_dev](https://t.me/omar_dev)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact : La programmation, c’est aussi savoir lire les erreurs… en paix 😄<br>
 
-<div align="center" >
-<a  href="https://github.com/omar-squalli">
-
-<img src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-
-</div>
