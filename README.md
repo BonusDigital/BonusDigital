@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 ## 👋 Bonjour, je suis Omar Squalli Houssaini
 
@@ -9,12 +9,12 @@
 🌐 Je développe des applications web modernes, robustes et sécurisées  
 📍 Basé au Maroc | Passionné par le code et les technologies web
 
-![Profile Views](https://komarev.com/ghpvc/?username=omar-squalli&style=flat&color=orange&label=VISITES+DU+PROFIL)
-[![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://web.telegram.org/a/) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=BonusDigital&style=flat&color=orange&label=VISITES+DU+PROFIL)  
+[![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://web.telegram.org/a/)  
 
 </div>
 
-<hr></hr>
+---
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Outils%20que%20j'utilise-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -35,9 +35,19 @@
 
 ---
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Actuellement en apprentissage **Laravel, React & ASP.NET**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; J’adore découvrir **les systèmes GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; N'hésitez pas à discuter avec moi de **programmation, tech, ou séries !** <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Telegram : **[@omar squalli houssaini](https://web.telegram.org/a/)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact : La programmation, c’est aussi savoir lire les erreurs… en paix 😄<br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Actuellement en apprentissage **Laravel, React & ASP.NET**.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; J’adore découvrir **les systèmes GNU/Linux**.  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; N'hésitez pas à discuter avec moi de **programmation, tech, ou séries !**  
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Telegram : **[@omar squalli houssaini](https://web.telegram.org/a/)**  
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact : La programmation, c’est aussi savoir lire les erreurs… en paix 😄  
 
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BonusDigital&show_icons=true&theme=tokyonight&locale=fr" width="48%" alt="Statistiques de BonusDigital">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonusDigital&layout=compact&theme=tokyonight&locale=fr" width="48%" alt="Langages les plus utilisés">
+
+</div>
