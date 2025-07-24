@@ -42,22 +42,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
----
 
-dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "Languages" : { "PHP", "JavaScript", "C#", "HTML", "CSS" },
-    "Frameworks" : { "Laravel", "React", "Node.js", "ASP.NET", "ADO.NET" },
-    "Database" : { "MySQL", "SQL Server" },
-    "Editors" : { "VSCode", "Visual Studio" },
-    "OtherTools" : { "Git", "Postman", "Chrome DevTools" }
-  };
-}
-
----
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Actuellement en apprentissage **Laravel, React & ASP.NET**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; J’adore découvrir **les systèmes GNU/Linux**. <br>
