@@ -1,17 +1,15 @@
 <div align="center" width="50">
 
-<img src="https://github.com/BonusDigital/BonusDigital/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>   
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Bienvenue sur le profil de Omar Squalli Houssaini" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Omar Squalli Houssaini en action" width="40%"/><br>   
 
-## 👋 Bonjour, je suis Omar Squalli Houssaini
+## 👋 Bonjour, je suis **Omar Squalli Houssaini**
 
 🎓 Étudiant à l'ISTA | 💻 Développeur Full Stack  
 🚀 Spécialisé en PHP (Laravel), React, Node.js, ASP.NET, SQL Server  
 🌐 Je développe des applications web modernes, robustes et sécurisées  
 📍 Basé au Maroc | Passionné par le code et les technologies web
 
-![Profile Views](https://komarev.com/ghpvc/?username=omar-squalli&style=flat&color=orange&label=VISITES+DU+PROFIL)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomar-squalli&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://t.me/omar_dev) <br>
 
 </div>
