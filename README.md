@@ -1,14 +1,6 @@
 <div align="center" width="50">
 
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders, I'm OMAR SQUALLI HOUSSAINI" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="OMAR SQUALLI HOUSSAINI Coding" width="40%"/><br>   
-
-## 👋 Hello Coders, I'm **OMAR SQUALLI HOUSSAINI**
-</div>
-
-## 👋 Bonjour, je suis Omar Squalli Houssaini
 
 🎓 Étudiant à l'ISTA | 💻 Développeur Full Stack  
 🚀 Spécialisé en PHP (Laravel), React, Node.js, ASP.NET, SQL Server  
