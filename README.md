@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-
+## 👋 Hello Coders, I'm **OMAR SQUALLI HOUSSAINI**
 
 🎓 Étudiant à l'ISTA | 💻 Développeur Full Stack  
 🚀 Spécialisé en PHP (Laravel), React, Node.js, ASP.NET, SQL Server  
