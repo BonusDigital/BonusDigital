@@ -10,17 +10,15 @@
 🌐 Je développe des applications web modernes, robustes et sécurisées  
 📍 Basé au Maroc | Passionné par le code et les technologies web
 
-
-
-![Totals Hits](https://komarev.com/ghpvc/?username=omar-squalli&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomar-squalli&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=omar-squalli&style=flat&color=orange&label=VISITES+DU+PROFIL)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomar-squalli&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://t.me/omar_dev) <br>
 
 </div>
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Outils%20que%20j'utilise-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
@@ -35,9 +33,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
-
+---
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Actuellement en apprentissage **Laravel, React & ASP.NET**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; J’adore découvrir **les systèmes GNU/Linux**. <br>
@@ -48,16 +46,16 @@
 <div align="center" >
 <a  href="https://github.com/omar-squalli">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>📊 Plus de statistiques</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/omar-squalli/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
   
