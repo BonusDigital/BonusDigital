@@ -1,29 +1,21 @@
-# 💻 Nom du Projet
+<div align="center">
 
-Une brève description du projet, sa finalité et les principaux objectifs.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Omar Squalli" />
 
-## 🚀 Technologies utilisées
+## 👋 Bonjour, je suis Omar Squalli Houssaini
 
-Ce projet a été réalisé avec les technologies suivantes :
+🎓 Étudiant à l’ISTA – Développeur Full Stack Passionné  
+💼 Spécialisé en PHP, Laravel, React.js, ASP.NET, Node.js  
+🌍 Je crée des applications web modernes, performantes et scalables  
+📌 Basé au Maroc | Disponible pour des projets freelance ou collaborations
 
-- ⚛️ **React.js** — Interface utilisateur dynamique et réactive
-- 🧠 **PHP** — Logique métier côté serveur
-- 🎨 **HTML5 / CSS3** — Structure et style
-- 🛠️ **JavaScript / jQuery** — Comportement et interactivité
-- 🗄️ **MySQL / SQL Server** — Stockage et gestion des données
-- 🔌 **ADO.NET** — Accès aux données pour les applications .NET
-- 🌐 **ASP.NET** — Développement Web côté serveur
-- 🌀 **Angular** — Framework pour le front-end SPA
-- 🧩 **Node.js** — Exécution JavaScript côté serveur
+---
 
-## 🏗️ Architecture
+### 🚀 Compétences Techniques
 
-- Architecture **MVC** (Modèle-Vue-Contrôleur)
-- Utilisation de **services RESTful**
-- Séparation claire entre le front-end et le back-end
-
-## 📦 Installation
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-projet.git
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET)
