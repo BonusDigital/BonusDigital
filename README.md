@@ -1,10 +1,12 @@
 <div align="center" width="50">
 
+
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVsNzB2MXh1NzNxaHMxYThsNmFmc3YzZThpd2F6dzF6dWtxNzJ6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXJWhaO7afRe6jfqS7/giphy.gif" alt="AI Coding GIF" width="60%"/>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coder at work" width="40%"/>
+<h2>👨‍💻 Omar Squalli Houssaini</h2>
+<h3>Développeur Fullstack & Passionné par l'IA</h3>
 </div>
+
 
 <div align="center">
 
