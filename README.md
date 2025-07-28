@@ -51,6 +51,5 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BonusDigital&show_icons=true&theme=tokyonight&locale=fr" width="48%" alt="Statistiques de BonusDigital">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonusDigital&layout=compact&theme=tokyonight&locale=fr" width="48%" alt="Langages les plus utilisés">
 
 </div>
