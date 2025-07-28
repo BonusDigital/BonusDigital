@@ -5,9 +5,9 @@
 ## 👋 Bonjour, je suis Omar Squalli Houssaini
 
 🎓 Étudiant à l'ISTA | 💻 Développeur Full Stack  
-🚀 Spécialisé en PHP (Laravel), React, Node.js, ASP.NET, SQL Server  
-🌐 Je développe des applications web modernes, robustes et sécurisées  
-📍 Basé au Maroc | Passionné par le code et les technologies web
+🚀 Spécialisé en PHP (Laravel),JavaScript(React), Node.js, ASP.NET, SQL Server  
+🌐 Je développe des sites web dynamiques modernes, robustes et sécurisées  
+📍 Basé au Maroc précisement Fès | Passionné par le code et les technologies web
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BonusDigital&style=flat&color=orange&label=VISITES+DU+PROFIL)  
 [![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://web.telegram.org/a/)  
