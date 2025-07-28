@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVsNzB2MXh1NzNxaHMxYThsNmFmc3YzZThpd2F6dzF6dWtxNzJ6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXJWhaO7afRe6jfqS7/giphy.gif" alt="AI Coding GIF" width="60%"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working GIF" width="40%"/>
 
 </div>
