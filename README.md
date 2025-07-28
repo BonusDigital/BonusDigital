@@ -11,8 +11,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BonusDigital&style=flat&color=orange&label=VISITES+DU+PROFIL)  
 [![telegram badge](https://img.shields.io/badge/Omar_Squalli-grey?style=flat&logo=telegram)](https://web.telegram.org/a/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Omar_Squalli-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D9%84%D8%A7-%D8%A7%D9%84%D8%A7%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%B3%D9%88%D9%84-%D8%A7%D9%84%D9%84%D9%87-584269283/)
-[![Instagram Badge](https://img.shields.io/badge/-linkedin-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bonusdigital1)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D9%84%D8%A7-%D8%A7%D9%84%D8%A7%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%B3%D9%88%D9%84-%D8%A7%D9%84%D9%84%D9%87-584269283/)
+[![Instagram Badge](https://img.shields.io/badge/-Omar_Squalli-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bonusdigital1)
 [![Gmail Badge](https://img.shields.io/badge/-Omar_Squalli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:omarskali13@gmail.com)](mailto:https://mail.google.com/mail/u/0/#inbox)
 
 </div>
